@@ -1,2 +1,4 @@
-obj/
-bin/
+BlazorApp/obj/
+BlazorApp/bin/
+BlazorApp2/obj/
+BlazorApp2/bin/
