@@ -452,3 +452,12 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+BlazingPizzaSite/obj/
+BlazingPizzaSite/bin/
+BlazorApp/obj/
+BlazorApp/bin/
+BlazorApp2/obj/
+BlazorApp2/bin/
+Blazor_AccessData/obj/
+Blazor_AccessData/bin/
