@@ -24,12 +24,44 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/.NET/Blazor_AccessData/Components/PaginationComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdpbmF0aW9uQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.NET/Blazor_AccessData/Pages/Checkout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/.NET/Blazor_AccessData/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/.NET/Blazor_AccessData/Pages/MyOrders.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlPcmRlcnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.NET/Blazor_AccessData/Pages/OrderDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJEZXRhaWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.NET/Blazor_AccessData/Shared/AddressEditor.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFkZHJlc3NFZGl0b3IucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.NET/Blazor_AccessData/Shared/ConfigurePizzaDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbmZpZ3VyZVBpenphRGlhbG9nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/.NET/Blazor_AccessData/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.NET/Blazor_AccessData/Shared/OrderReview.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE9yZGVyUmV2aWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/.NET/Blazor_AccessData/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/.NET/Blazor_AccessData/Pages/Error.cshtml]

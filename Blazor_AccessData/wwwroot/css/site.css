@@ -562,7 +562,9 @@ a.sign-in {
     }
 
 input[type=range] {
-    -webkit-appearance: none;
+    -webkit-appearance: none; /* For Safari/Chrome */
+    -moz-appearance: none; /* For Firefox */
+    appearance: none; /* Standard property */
     margin: 7.1px 0;
     height: 21px;
 }
